@@ -169,6 +169,14 @@ const translations = {
     upcomingEvents: 'Événements et calendriers à venir',
     viewCalendar: 'Voir le Calendrier',
     myAccount: 'Mon Compte',
+    
+    // Calendar Page
+    addToGoogleCalendar: 'Ajouter à Google Agenda',
+    scheduleAppointment: 'Prendre rendez-vous',
+    selectDatePrompt: 'Sélectionnez une date dans le calendrier pour prendre rendez-vous.',
+    appointmentForDate: 'Rendez-vous pour le {{date}}',
+    eventType: "Type d'événement",
+    dateRange: "Plage de dates",
 
     // Languages
     french: 'Français',
@@ -332,6 +340,14 @@ const translations = {
     viewCalendar: 'View Calendar',
     myAccount: 'My Account',
 
+    // Calendar Page
+    addToGoogleCalendar: 'Add to Google Calendar',
+    scheduleAppointment: 'Schedule Appointment',
+    selectDatePrompt: 'Select a date from the calendar to schedule an appointment.',
+    appointmentForDate: 'Appointment for {{date}}',
+    eventType: "Event Type",
+    dateRange: "Date Range",
+
     // Languages
     french: 'Français',
     english: 'English',
@@ -493,6 +509,14 @@ const translations = {
     upcomingEvents: 'الأحداث والجداول القادمة',
     viewCalendar: 'عرض التقويم',
     myAccount: 'حسابي',
+
+    // Calendar Page
+    addToGoogleCalendar: 'إضافة إلى تقويم Google',
+    scheduleAppointment: 'تحديد موعد',
+    selectDatePrompt: 'اختر تاريخًا من التقويم لتحديد موعد.',
+    appointmentForDate: 'موعد في {{date}}',
+    eventType: "نوع الحدث",
+    dateRange: "نطاق التاريخ",
 
     // Languages
     french: 'Français',

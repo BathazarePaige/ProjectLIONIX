@@ -48,7 +48,7 @@ const ProfileSidebar: React.FC = () => {
       <div>
         <div className="flex items-center gap-3 p-3 mb-4">
           <img
-            src={`https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://s3-alpha-sig.figma.com/img/40c3/222c/fb5177742f5f6111996946c59e8b4776?Expires=1757894400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=RP735khhUhWqPDPZXwgKrb6LDkExOeswOo1p~U0GdpRufSoS7-F62mSGzeS8IJj2G0giru0XaEcQhMS6OD1L6qxA~-ZoQfxLqwm9i79f0gIUUKhN7KdVNhdrzvA86SU9Esvnn0eh0r8PSGttTZMsOw-mMaIlkm9bzABQ-Kl-UDg2nx6tlUjVtNIGv-UTXe0H9ZMDf80kJc6bqb40TyR-NMyHP82q3UTiVJnG1DHbCYw7~eEUncJscy3zkdIux6BEGUOXDa4xUZ88-84zVoiyrpu4dAQVHX5y6g8VJIFo51Y7ToVpWrTdC9cqY5k-L6cyKmofY0GZ945QfkPUinp6tQ__`}
+            src={`https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://s3-alpha-sig.figma.com/img/40c3/222c/fb5177742f5f6111996946c59e8b4776?Expires=1757894400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=RP735khhUhWqPDPZXwgKrb6LDkExOeswOo1p~U0GdpRufSoS7-F62mSGzeS8IJj2G0giru0XaEcQhMS6OD1L6qxA~-ZoQfxLqwm9i79f0gIUUKhN7KdVNhdrzvA86SU9Esvnn0eh0r8PSGttTZMsOw-mMaIlkm9bzABQ-Kl-UDg2nx6tlUjVtNIGv-UTXe0H9ZMDf80kJc6bqb40TyR-NMyHP82q3UTiVJnG1DHbCYw7~eEUncJscy3zkdIux6BEGUOXDa4xUZ88-84zVoiyrpu4dAQVHX5y6g8VJIFo51Y7ToVpWrTdC9cqY5k-L6cyKmofY0GZ945QfkPUinp6tQ__`}
             alt="User Avatar"
             className="w-10 h-10 rounded-full object-cover"
           />

@@ -31,7 +31,7 @@ const CulturalHeritage: React.FC = () => {
               <div 
                 className="w-full h-[522px] bg-cover bg-center rounded-xl"
                 style={{
-                  backgroundImage: `url('https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://s3-alpha-sig.figma.com/img/5d78/7b6a/a8c59f0eca331d79e80f35598e9752d5?Expires=1757894400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=V2Tw0~IG4JoZroGb2s5kOWJBGZFT2thDrrLDovxkBX0iI5rRlBUDCbnehvo~9~3Xv9HHIzxuZtlxTNPL4DQfMRGkkfs7nCZ5MWecv3jBXWNGhCfDkyoSo0anovT1Wn0-ciikajtqDs5kJNHvYzfnlNwpxBIhTOORSfma1IZTsYmq5JIYkFioyFiCGR0BN-D~7Wig65n2YYCFG0WUiKkjTTApjfVumGjF6i2vu3qXaKEWhAmbPViUp0acSq5bTx2HGHydIL4BymJ-xRWDTxlH6Jro-rQZc1BupeMP7v8KvGdyr6uenfPnTPkWwnqlKJJocqznILWQy1LAhlUD~RHa5Q__')`
+                  backgroundImage: `url('https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://img-wrapper.vercel.app/image?url=https://s3-alpha-sig.figma.com/img/5d78/7b6a/a8c59f0eca331d79e80f35598e9752d5?Expires=1757894400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=V2Tw0~IG4JoZroGb2s5kOWJBGZFT2thDrrLDovxkBX0iI5rRlBUDCbnehvo~9~3Xv9HHIzxuZtlxTNPL4DQfMRGkkfs7nCZ5MWecv3jBXWNGhCfDkyoSo0anovT1Wn0-ciikajtqDs5kJNHvYzfnlNwpxBIhTOORSfma1IZTsYmq5JIYkFioyFiCGR0BN-D~7Wig65n2YYCFG0WUiKkjTTApjfVumGjF6i2vu3qXaKEWhAmbPViUp0acSq5bTx2HGHydIL4BymJ-xRWDTxlH6Jro-rQZc1BupeMP7v8KvGdyr6uenfPnTPkWwnqlKJJocqznILWQy1LAhlUD~RHa5Q__')`
                 }}
               ></div>
             </div>
